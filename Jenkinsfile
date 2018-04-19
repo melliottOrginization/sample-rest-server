@@ -28,6 +28,5 @@ stage('Development Tests') {
             echo "Run the development tests!"
          }
       }
-
    }
 }
